@@ -34,14 +34,14 @@ Step4 In runner need to define path of plugins, path of feature, path of glue(St
 
 Step5 create stepDefinition package and create test cases which defineded the steps followed in each instruction of Given, When and Then
 
-## Code
-
-![Uploading Screenshot 2024-04-28 at 18.01.26.png…]()
-
-
-
 Step6 Given instruction has steps like navigate to the application url
 
 Step7 When instruction has steps like enter usename and password.
 
 Step8 Then instruction has steps like assering that user is able to Login
+
+## Code
+
+
+![Screenshot 2024-04-28 at 18 01 26](https://github.com/AlkaChaudhary/DemoCucumberBDDProject/assets/87438786/76c64e76-c5cb-4c3e-925f-03ee5937ff09)
+
