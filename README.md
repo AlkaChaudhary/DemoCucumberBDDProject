@@ -5,7 +5,7 @@
 # DemoCucumberBDDProject
 Created CucumberBDDProject using Selenium with Java
 
-## FrameWork Diagram
+## BDD Cucumber FrameWork Diagram
 
 ![Screenshot 2024-04-28 at 14 21 14](https://github.com/AlkaChaudhary/DemoCucumberBDDProject/assets/87438786/af2f7936-9d91-4eed-9463-11d86dd4d980)
 ## Steps to be followed
